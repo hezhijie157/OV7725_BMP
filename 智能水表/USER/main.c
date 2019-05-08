@@ -176,6 +176,7 @@ void camera_refresh(void)
 
 int main(void)
 {
+	//HZJ TEST
 	u8 lightmode=0,saturation=2,brightness=2,contrast=2,effect=0;
 	u8 i = 0, j = 0, k  = 0;
 	int r1[5];//识别结果

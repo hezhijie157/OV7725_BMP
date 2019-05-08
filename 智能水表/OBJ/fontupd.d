@@ -3,7 +3,7 @@
 ..\obj\fontupd.o: ..\SYSTEM\sys\sys.h
 ..\obj\fontupd.o: ..\USER\stm32f10x.h
 ..\obj\fontupd.o: ..\CORE\core_cm3.h
-..\obj\fontupd.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\fontupd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\fontupd.o: ..\USER\system_stm32f10x.h
 ..\obj\fontupd.o: ..\USER\stm32f10x_conf.h
 ..\obj\fontupd.o: ..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
@@ -19,5 +19,5 @@
 ..\obj\fontupd.o: ..\FATFS\src\ffconf.h
 ..\obj\fontupd.o: ..\HARDWARE\FLASH\flash.h
 ..\obj\fontupd.o: ..\HARDWARE\LCD\lcd.h
-..\obj\fontupd.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\fontupd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 ..\obj\fontupd.o: ..\MALLOC\malloc.h

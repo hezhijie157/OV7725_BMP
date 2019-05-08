@@ -6,7 +6,7 @@
 ..\obj\imageprocess.o: ..\SYSTEM\sys\sys.h
 ..\obj\imageprocess.o: ..\USER\stm32f10x.h
 ..\obj\imageprocess.o: ..\CORE\core_cm3.h
-..\obj\imageprocess.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\imageprocess.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\imageprocess.o: ..\USER\system_stm32f10x.h
 ..\obj\imageprocess.o: ..\USER\stm32f10x_conf.h
 ..\obj\imageprocess.o: ..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
@@ -17,6 +17,6 @@
 ..\obj\imageprocess.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
 ..\obj\imageprocess.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
 ..\obj\imageprocess.o: ..\STM32F10x_FWLib\inc\misc.h
-..\obj\imageprocess.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
-..\obj\imageprocess.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\imageprocess.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\imageprocess.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\obj\imageprocess.o: imageprocess.h

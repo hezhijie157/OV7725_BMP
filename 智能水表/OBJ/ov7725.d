@@ -2,7 +2,7 @@
 ..\obj\ov7725.o: ..\SYSTEM\sys\sys.h
 ..\obj\ov7725.o: ..\USER\stm32f10x.h
 ..\obj\ov7725.o: ..\CORE\core_cm3.h
-..\obj\ov7725.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\ov7725.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\ov7725.o: ..\USER\system_stm32f10x.h
 ..\obj\ov7725.o: ..\USER\stm32f10x_conf.h
 ..\obj\ov7725.o: ..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
@@ -18,4 +18,4 @@
 ..\obj\ov7725.o: ..\HARDWARE\OV7725\ov7725config.h
 ..\obj\ov7725.o: ..\SYSTEM\delay\delay.h
 ..\obj\ov7725.o: ..\SYSTEM\usart\usart.h
-..\obj\ov7725.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\ov7725.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

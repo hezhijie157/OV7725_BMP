@@ -3,7 +3,7 @@
 ..\obj\piclib.o: ..\SYSTEM\sys\sys.h
 ..\obj\piclib.o: ..\USER\stm32f10x.h
 ..\obj\piclib.o: ..\CORE\core_cm3.h
-..\obj\piclib.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\piclib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\piclib.o: ..\USER\system_stm32f10x.h
 ..\obj\piclib.o: ..\USER\stm32f10x_conf.h
 ..\obj\piclib.o: ..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
@@ -15,7 +15,7 @@
 ..\obj\piclib.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
 ..\obj\piclib.o: ..\STM32F10x_FWLib\inc\misc.h
 ..\obj\piclib.o: ..\HARDWARE\LCD\lcd.h
-..\obj\piclib.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\piclib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 ..\obj\piclib.o: ..\MALLOC\malloc.h
 ..\obj\piclib.o: ..\FATFS\src\ff.h
 ..\obj\piclib.o: ..\FATFS\src\integer.h
